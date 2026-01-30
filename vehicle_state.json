@@ -1,0 +1,9 @@
+{
+  "vehicle": "Demo Car",
+  "components": [
+    { "name": "Brakes", "health": 78, "failure_score": 0.22 },
+    { "name": "Engine", "health": 92, "failure_score": 0.08 },
+    { "name": "Battery", "health": 65, "failure_score": 0.35 }
+  ],
+  "last_updated": "2026-01-30"
+}
